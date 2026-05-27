@@ -1,0 +1,7 @@
+.build/
+.swiftpm/
+*.app/
+*.zip
+AppIcon.icns
+.DS_Store
+appcast.xml
